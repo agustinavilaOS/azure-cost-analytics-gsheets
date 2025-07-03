@@ -1,0 +1,21 @@
+UsageDate,ResourceId,ResourceType,ResourceLocation,ResourceGroupName,ServiceName,Meter,CostUSD,Cost,Currency
+2025-05-01,/subscriptions/abc/resourceGroups/RG1/providers/Microsoft.VirtualMachine/virtualmachines/vm01,VirtualMachine,East US,RG1,Compute,Standard_D2s_v3,37.12,37.12,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG1/providers/Microsoft.VirtualMachine/virtualmachines/vm02,VirtualMachine,East US,RG1,Compute,Standard_D4s_v3,67.54,67.54,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG2/providers/Microsoft.StorageAccount/storageaccounts/sa01,StorageAccount,West US,RG2,Storage,Hot LRS,60.08,60.08,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG2/providers/Microsoft.StorageAccount/storageaccounts/sa02,StorageAccount,West US,RG2,Storage,Hot LRS,56.31,56.31,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG1/providers/Microsoft.SqlServer/sqlservers/sql01,SqlServer,East US,RG1,SQL Database,Standard DTU,38.44,38.44,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG3/providers/Microsoft.PublicIP/publicips/ip01,PublicIP,Central US,RG3,Networking,Standard IP,92.93,92.93,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG4/providers/Microsoft.AppService/appservices/webapp01,AppService,East US,RG4,App Service,Standard Plan,60.85,60.85,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG5/providers/Microsoft.KeyVault/keyvaults/kv01,KeyVault,Central US,RG5,Security,Standard,24.19,24.19,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG6/providers/Microsoft.ContainerInstance/containerinstances/cg01,ContainerInstance,East US,RG6,Containers,Standard,63.53,63.53,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG7/providers/Microsoft.EventHub/eventhubs/eh01,EventHub,Central US,RG7,Integration,Standard,17.17,17.17,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG8/providers/Microsoft.CognitiveServices/cognitiveservices/ai01,CognitiveServices,West US,RG8,AI,Standard,98.99,98.99,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG9/providers/Microsoft.DNSZone/dnszones/dns01,DNSZone,East US,RG9,Networking,Standard,66.63,66.63,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG10/providers/Microsoft.Firewall/firewalls/firewall01,Firewall,Central US,RG10,Security,Standard,22.99,22.99,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG11/providers/Microsoft.ApplicationGateway/applicationgateways/appgw01,ApplicationGateway,West US,RG11,Networking,Standard,66.45,66.45,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG12/providers/Microsoft.SqlServer/sqlservers/sql02,SqlServer,East US,RG12,SQL Database,Standard DTU,93.88,93.88,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG13/providers/Microsoft.VirtualMachine/virtualmachines/vm03,VirtualMachine,East US,RG13,Compute,Standard_D2s_v3,47.63,47.63,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG14/providers/Microsoft.StorageAccount/storageaccounts/sa03,StorageAccount,West US,RG14,Storage,Hot LRS,24.44,24.44,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG15/providers/Microsoft.ContainerInstance/containerinstances/cg02,ContainerInstance,East US,RG15,Containers,Standard,41.64,41.64,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG16/providers/Microsoft.CognitiveServices/cognitiveservices/ai02,CognitiveServices,West US,RG16,AI,Standard,7.17,7.17,USD
+2025-05-01,/subscriptions/abc/resourceGroups/RG17/providers/Microsoft.AppService/appservices/webapp02,AppService,East US,RG17,App Service,Standard Plan,51.67,51.67,USD
