@@ -53,8 +53,8 @@ azure-cost-analytics-gsheets/
 ├── Mes a comparar.csv
 ├── LICENSE
 └── img/
-    ├── Recursos_en_crecimiento.png.png
-    └── Recursos_con_mayor_optimizacion.png.png
+    ├── Recursos_en_crecimiento.png
+    └── Recursos_con_mayor_optimizacion.png
 ````
 
 ---
